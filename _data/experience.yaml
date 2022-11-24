@@ -1,37 +1,38 @@
 experiences:
 
-- place: "Centre for Innovation"
-  time: "Apr 2020 - Apr 2022"
-  title: "Head, former Coordinator"
-  subtitle: "Electronics Club"
-  category: "school"
 
 - place: "IIT Madras"
   time: "Sep 2021 - now"
   title: "B. Tech Thesis & Young Research Fellowship"
   subtitle: "Advisor: Prof. Nirav Bhatt <br/> CRNs for Computation"
-  category: "work"
+  category: "school"
 
 - place: "IIT Madras"
   time: "Aug 2021 - Oct 2022"
   title: "Project"
   subtitle: "Advisor: Prof. Himanshu Goyal <br/> Mesoscale Structures in CFD Simulations"
-  category: "work"
+  category: "school"
 
 - place: "University of Alberta"
-  time: "May - Jul 2022"
-  title: "MITACS Globalink, Summer Intern"
+  time: "Summer 2022"
+  title: "MITACS Globalink Intern"
   subtitle: "Advisor: Prof. Vinay Prasad <br/> Attention Architechtures for Adsorption Columns"
   category: "work"
 
-- place: "AbbVie Pharmaceuticals"
+- place: "AbbVie Pharma"
   time: "Oct - Dec 2021"
   title: "Project"
   subtitle: "Advisor: Prof. Himanshu Goyal <br/> Particle Mixing in Drug Reactors"
   category: "work"
-
-- place: "IIT Delhi"
-  time: "Jun 2021 – Jan 2022"
+  
+- place: "Centre for Innovation"
+  time: "Apr 2020 - Apr 2022"
+  title: "Head, former Coordinator"
+  subtitle: "Electronics Club"
+  category: "school"
+  
+- place: "CAPS Lab, IIT Delhi"
+  time: "Summer 2021"
   title: "Summer Intern"
   subtitle: "Advisor: Prof. Hariprasad Kodamana <br/> Text Mining Frameworks for H2 Production<br/>"
   category: "work"
