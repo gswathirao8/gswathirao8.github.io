@@ -3,8 +3,8 @@ papers:
   - title: "A text mining framework for screening catalysts and critical process parameters from scientific literature-a study on Hydrogen production from alcohol"
     authors: "Avan Kumar, <b>Swathi Ganesh</b>, Divyanshi Gupta, Hariprasad Kodamana"
     venue: "Chemical Engineering Research and Design. 2022."
-    paper_pdf: "/assets/publications/2022_newsbridge/paper.pdf"
-    code: "https://github.com/msaveski/twitter_perspective_taking"
+    paper_pdf: "/assets/publications/2022_ExSciBERT/1-s2.0-S0263876222002325-main (1).pdf"
+#     code: "https://github.com/msaveski/twitter_perspective_taking"
     selected: y
 
 
